@@ -1,7 +1,7 @@
 # modeling-of-BBB-pathologies
 There was an idea to create a program for modeling the pathological processes of the central nervous system and their prediction in the present and future
 Blood-Brain Barrier Permeability and Pathology Modeling
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 This project provides computational modeling tools for simulating blood-brain barrier (BBB) permeability and its pathological alterations. The BBB plays a critical role in protecting the central nervous system, and its dysfunction is associated with various neurological disorders.
@@ -75,9 +75,6 @@ Pathological Models
 The project includes validation data with experimental permeability measurements from in vitro and in vivo studies. Comparative analysis shows model predictions align with experimental data with >85% accuracy.
 
 🤝 Contributing
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 📞 Contact
 good.bqw@gmail.com
